@@ -22,11 +22,8 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
-<<<<<<< HEAD
-=======
 node_modules/
 .env
 build/
 .vscode/
-
->>>>>>> d3aca62 (create pages and routes)
+.env
